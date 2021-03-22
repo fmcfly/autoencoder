@@ -4,3 +4,4 @@ Instalar Anaconda y Spyder para correrlo.
 
 Les dejo mi pagina web por si me quieren contactar para mas info o si quieren aprender a programar.
 :D
+https://ferindustries146.s3.amazonaws.com/index.html#/principal
